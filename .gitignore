@@ -1,0 +1,8 @@
+data/purchases.csv
+data/sales.csv
+data/begin_inventory.csv
+data/end_inventory.csv
+data/purchase_prices.csv
+data/vendor_invoice.csv
+data/vendor_sales_summary.csv
+inventory.db
